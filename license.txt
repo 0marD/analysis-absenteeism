@@ -1,0 +1,10 @@
+LIMITED USE LICENSE
+
+This project is provided for educational and non-commercial use only.
+
+Restrictions:
+- Commercial use is prohibited without explicit permission.
+- No warranty is provided for results or fitness for any particular use.
+- The author is not liable for any misuse of this code or analysis.
+
+© 2025. All rights reserved.
